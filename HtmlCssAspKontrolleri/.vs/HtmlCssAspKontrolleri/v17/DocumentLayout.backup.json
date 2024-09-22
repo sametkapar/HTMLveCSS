@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\tablolar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\tablolar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\linkolusturma.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\linkolusturma.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\resimekleme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\resimekleme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\listekullanimi.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\listekullanimi.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\metinbicimlendirme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\metinbicimlendirme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\basliklar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\basliklar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|c:\\users\\kapar\\source\\repos\\htmlcssaspkontrolleri\\htmlcssaspkontrolleri\\html_kontrolleri\\htmltemelkurallar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29802486-BEB4-4793-84A0-7B466241F08F}|HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri.csproj|solutionrelative:htmlcssaspkontrolleri\\html_kontrolleri\\htmltemelkurallar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tablolar.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Tablolar.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Tablolar.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Tablolar.html*",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Tablolar.html*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T12:11:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkOlusturma.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\LinkOlusturma.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\LinkOlusturma.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\LinkOlusturma.html",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\LinkOlusturma.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T12:07:14.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResimEkleme.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ResimEkleme.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ResimEkleme.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ResimEkleme.html",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ResimEkleme.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T11:54:58.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListeKullanimi.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ListeKullanimi.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ListeKullanimi.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ListeKullanimi.html",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\ListeKullanimi.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T11:46:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MetinBicimlendirme.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\MetinBicimlendirme.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\MetinBicimlendirme.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\MetinBicimlendirme.html",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\MetinBicimlendirme.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T11:38:50.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basliklar.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Basliklar.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Basliklar.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Basliklar.html",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\Basliklar.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T11:34:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtmlTemelKurallar.html",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\HtmlTemelKurallar.html",
+              "RelativeDocumentMoniker": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\HtmlTemelKurallar.html",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\HtmlCssAspKontrolleri\\HtmlCssAspKontrolleri\\HTML_Kontrolleri\\HtmlTemelKurallar.html",
+              "RelativeToolTip": "HtmlCssAspKontrolleri\\HTML_Kontrolleri\\HtmlTemelKurallar.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T11:24:59.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
